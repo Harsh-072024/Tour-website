@@ -26,7 +26,7 @@ const Home = () => {
         <div className="overlay"></div>
         <div className="videowrapper">
         {/* <video src={video} muted autoPlay loop type="video/mp4"></video> */}
-        <video src="https://drive.google.com/file/d/1drw_VLo-0nUpEzx9gf8RGGjyYA45Id4l/view" muted autoPlay loop type="video/mp4"></video>
+        <video src="https://drive.google.com/uc?export=view&id=1drw_VLo-0nUpEzx9gf8RGGjyYA45Id4l" muted autoPlay loop type="video/mp4"></video>
         </div>
 
         <div className="homeContent container">
