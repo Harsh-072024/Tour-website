@@ -25,7 +25,8 @@ const Home = () => {
        <section className="home">
         <div className="overlay"></div>
         <div className="videowrapper">
-        <video src={video} muted autoPlay loop type="video/mp4"></video>
+        {/* <video src={video} muted autoPlay loop type="video/mp4"></video> */}
+        <video src={"https://github.com/Harsh-072024/Tour-website/blob/master/src/Assets/video.mp4"} muted autoPlay loop type="video/mp4"></video>
         </div>
 
         <div className="homeContent container">
